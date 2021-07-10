@@ -1,0 +1,19 @@
+{
+  "name": "coinbot",
+  "version": "1.0.0",
+  "description": "The CoinBot works with Puppetter library. Puppeteer is a Node library which provides a high-level API to control headless Chrome or Chromium over the DevTools Protocol. It can also be configured to use full (non-headless) Chrome or Chromium. With puppetter it's possible to use document.querySelecto to get the values from any URL.",
+  "main": "coinbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bernardd0/CoinBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bernardd0/CoinBot/issues"
+  },
+  "homepage": "https://github.com/bernardd0/CoinBot#readme"
+}
